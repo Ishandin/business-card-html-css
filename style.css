@@ -28,7 +28,7 @@ body{
 
 .card .lines::before{
     content: '';
-    background: linear-gradient(transparent,red,green, blue,transparent);
+    background: linear-gradient(transparent,yellow,#58D68D,green,#0000FF,orange,red,salmon,Fuchsia,transparent);
     width: 700px;
     height: 220px;
     top:50%;
@@ -67,9 +67,9 @@ body{
 }
 
 .content .username{
-    color: rgb(67,209,209);
+    color: #F5B041;
     font-size: 30px;
-    margin-top: 20px;
+    margin-top: 10px;
     font-weight: bold;
 }
 
